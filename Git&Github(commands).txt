@@ -13,4 +13,4 @@ git remote add origin <repositorio> //subir
 git remote -v // al
 git push origin master // git hub 
 git pull <link de su repositrorio> // traer el respositorio al pc
-git clone
+git clone // clonar respositorios
