@@ -1,9 +1,11 @@
 Git & Github (zero):
 Basic commands:
-git init //inicializamos el repositorio
-git add <file> //para agregar el archivo a seguimiento
-git status -s //nos muestra como van los seguimientos
-git commit -m "description" // nos hace la instantanea del codigo
-git push
+git init //inicializamos el repositorio.
+git add <file> //para agregar el archivo a seguimiento.
+git status -s //nos muestra como van los seguimientos.
+git commit -m "description" // nos hace la instantanea del codigo.
+git log --oneline //nos permite ver cuantos commits hemos hecho.
+git reset --hard <codigo de la instantanea> //restaurar instantaneas anteriores
+git push 
 git pull
 git clone
