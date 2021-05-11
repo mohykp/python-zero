@@ -2,8 +2,8 @@ Git & Github (zero):
 Basic commands:
 git init //inicializamos el repositorio
 git add <file> //para agregar el archivo a seguimiento
-git status //nos muestra como van los seguimientos
-git commit
+git status -s //nos muestra como van los seguimientos
+git commit -m "description" // nos hace la instantanea del codigo
 git push
 git pull
 git clone
