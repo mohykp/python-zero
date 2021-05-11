@@ -9,6 +9,9 @@ git log --oneline //nos permite ver cuantos commits hemos hecho.
 git reset --hard <codigo de la instantanea> //restaurar instantaneas anteriores
 git commit -am //hace los comandos add + commit.
 git commit --amend //modificar un commit. :i para editar y :qw para salir y guardar cambios
+git remote add origin <repositorio> //subir
+git remote -v // al
+git push origin master // git hub 
 git push 
 git pull
 git clone
